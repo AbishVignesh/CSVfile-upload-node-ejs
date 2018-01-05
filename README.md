@@ -6,7 +6,7 @@ install redis and use it as db
 
 git clone https://github.com/AbishVignesh/CSVfile-upload-node-ejs.git
 
-fill .env file wit redis details
+fill .env file with redis and temp path details
 
 npm install
 
